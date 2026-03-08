@@ -4,7 +4,7 @@
 
 # ***I'M JUNIOR! 👋***
 
-***Undergraduate Student (Developer / Programmer)***
+***An Undergraduate Student (Developer / Programmer)***
 
 I am a keen Software Developer and Machine Learning Enthusiast with a huge love for Python.
 
