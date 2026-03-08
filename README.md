@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="![GitHub Profile Banner](https://cdn.jsdelivr.net/gh/bohanhu118/bohanhu118/Github%20profile.png)" alt="Banner" width="100%" />
+  <img src="bohanhu118/Github profile.png" alt="Banner" width="100%" />
 </div>
 
 #  I'M JUNIOR! 👋
