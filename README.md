@@ -20,8 +20,8 @@ I am a Keen Software Developer and Machine Learning Enthusiast with a huge love 
 
 #### 📚 Current Learning
 - Deepening my knowledge in Machine Learning and AI.
-- Exploring advanced React.js patterns and state management techniques.
-- Improving my skills in cloud computing with AWS and Azure.
+- Exploring advanced techniques in algorithms and research development.
+- Improving my skills in cloud-code and innovation program.
 
 #### 🔥 Quote
 ``
