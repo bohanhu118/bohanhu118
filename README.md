@@ -42,20 +42,20 @@
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
-[![website](./imges/globe-light.svg)]()
-[![website](./imges/globe-dark.svg)]()
+[![website](./images/globe-light.svg)]()
+[![website](./images/globe-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./imges/youtube-light.svg)]()
-[![website](./imges/youtube-dark.svg)]()
+[![website](./images/youtube-light.svg)]()
+[![website](./images/youtube-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./imges/twitter-light.svg)]()
-[![website](./imges/twitter-dark.svg)]()
+[![website](./images/twitter-light.svg)]()
+[![website](./images/twitter-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./imges/linkedin-light.svg)]()
-[![website](./imges/linkedin-dark.svg)]()
+[![website](./images/linkedin-light.svg)]()
+[![website](./images/linkedin-dark.svg)]()
 &nbsp;&nbsp;
-[![website](./imges/instagram-light.svg)]()
-[![website](./imges/instagram-dark.svg)]()
+[![website](./images/instagram-light.svg)]()
+[![website](./images/instagram-dark.svg)]()
 
 
 
