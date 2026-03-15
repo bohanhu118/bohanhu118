@@ -4,11 +4,11 @@
   </a>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.linkedin.com/in/%E5%8D%9A%E6%B6%B5-%E8%83%A1-6606223b7/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://github.com/bohanhu118" title="Github Profile"><img width="22" src="images/github.svg"> Github Profile</a></code>
+  <!-- <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
+</h5> -->
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
