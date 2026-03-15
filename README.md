@@ -13,7 +13,7 @@
 
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
-- 💻 Software and Machine Learning dev with bold ideas
+- 💻 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚊𝚗𝚍 𝙼𝚊𝚌𝚑𝚒𝚗𝚎 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
 - 🌐 You can access all my open-source projects here on Github.
 - 🎓 Bachelor's BEng Digital Media Technology from *@Xi'an Jiaotong-Liverpool University*, class of 2024.
 - 🌱 I’m currently learning many things, and I believe that everyday is a learning opportunity.
