@@ -25,10 +25,10 @@
 - Working on Audio and Speech!
 - Developing my research skills and internship experience.
 ```
-<!-- - Developing Nexus, the cross-platform, all-in-one, CharaChorder desktop app! -->
 <!-- - 🔨 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚗𝚎𝚠 [**𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛**](https://github.com/Raymo111/i3lock-color) 𝚛𝚎𝚕𝚎𝚊𝚜𝚎
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘... -->
-- 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
+
+- 🤞 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
 	- 𝙳𝚛𝚎𝚊𝚖 𝚋𝚒𝚐, 𝚜𝚝𝚊𝚛𝚝 𝚜𝚖𝚊𝚕𝚕！
 	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚘𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎.
    <!--
